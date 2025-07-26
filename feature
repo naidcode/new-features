@@ -1,2 +1,2 @@
-conflict free 
+feature 2
 
